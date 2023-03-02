@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seanfitzgerald7
 - 👀 I’m interested in ... --> Full Stack, Web Development
-- 🌱 I’m currently learning ... --> Java, JavaScript. Computer Science second year student.
+- 🌱 I’m currently learning ... --> React - Computer Science fourth year student.
 - 💞️ I’m looking to collaborate on ... --> JavaScript/Python/Java Projects
 - 📫 How to reach me ... --> fitzgeralds5@xavier.edu
 
