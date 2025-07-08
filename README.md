@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @seanfitzgerald7
-- 👀 I’m interested in ... --> Full Stack, Web Development
-- 🌱 I’m currently learning ... --> React - Computer Science fourth year student.
-- 💞️ I’m looking to collaborate on ... --> JavaScript/Python/Java Projects
-- 📫 How to reach me ... --> fitzgeralds5@xavier.edu
+Minecraft plugin development.
 
 <!---
 seanfitzgerald7/seanfitzgerald7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
